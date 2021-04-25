@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BOS_4</string>
+    <string name="confirm">Confirm</string>
+    <string name="password">password</string>
+    <string name="enter_password">Enter_password</string>
+    <string name="decrypt">decrypt</string>
+    <string name="change_password">change password</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="old_password">old password</string>
+    <string name="new_password">new password</string>
+</resources>
